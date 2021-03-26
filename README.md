@@ -1,4 +1,3 @@
 # Blog
-Thoughts on software
 
-Github issues = blog posts
+Thoughts on software in [issues](https://github.com/Platonn/blog/issues).
