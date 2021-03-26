@@ -1,3 +1,3 @@
 # Blog
 
-Thoughts on software in [issues](https://github.com/Platonn/blog/issues).
+[Thoughts on software](https://github.com/Platonn/blog/issues).
