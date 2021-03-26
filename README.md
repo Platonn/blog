@@ -1,10 +1,10 @@
 # Blog
 
-[Thoughts on software... in github issues](https://github.com/Platonn/blog/issues).
+💭 [Thoughts on software... in github issues](https://github.com/Platonn/blog/issues).
 
 
---
+### Find me on:
 
-Find me on Twitter https://twitter.com/krisplatis
+[Twitter](https://twitter.com/krisplatis)
 
-Watch me on Youtube https://www.youtube.com/channel/UCMR-Enq2wWl3FcTlMWQgtwQ
+[YouTube](https://www.youtube.com/channel/UCMR-Enq2wWl3FcTlMWQgtwQ)
